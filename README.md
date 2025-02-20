@@ -1,5 +1,5 @@
 # DGOH
-## Paper "Deep Graph Online Hashing for Image Retrieval"
+## This repository contains the matlab code for the paper: "Deep Graph Online Hashing for Image Retrieva" AAAI 2025.
 
 # Parameter:
     dataset: Flickr_vigb for flickr  COCO for coco
